@@ -1,54 +1,89 @@
-# Azure Home Lab
-
-Enterprise Azure and Microsoft Entra home lab documenting my journey from Service Desk Engineer to Cloud Engineer / IAM Engineer.
-
-## Objective
-
-Build real-world Azure administration skills through hands-on labs while preparing for:
-
-- AZ-104: Azure Administrator Associate
-- SC-300: Microsoft Identity and Access Administrator Associate
-
-Everything in this repository is built, documented, and automated as if I were supporting a real enterprise environment.
-
+# Enterprise Cloud Simulation
+## Azure Home Lab Portfolio
+Welcome to my Enterprise Cloud Simulation portfolio.
+This repository documents a long-term, scenario-based cloud engineering program designed to simulate the responsibilities of an enterprise Cloud Engineer and Cloud Architect.
+Rather than completing isolated Azure labs, each project represents a realistic business engagement requiring planning, documentation, architecture, implementation, security, automation, and ongoing operations.
+Every decision is driven by business requirements, documented through GitHub, and implemented using Microsoft Azure and Microsoft Entra ID.
 ---
-
-## Technologies
-
-- Microsoft Azure
+# Simulation 01
+## Brothers Technology Group (BTG)
+**Industry:** Technology Solutions & Managed Services
+**Employees:** 500
+**Headquarters:** Boston, Massachusetts
+**Projected Growth:** 1,200 Employees
+### Role
+Associate Cloud Engineer
+### Mission
+Design, document, secure, automate, and operate BTG's Azure environment while supporting the company's enterprise cloud transformation.
+---
+# Current Objectives
+- Understand business requirements
+- Design enterprise architecture
+- Build Azure infrastructure
+- Implement Microsoft Entra ID
+- Configure networking
+- Deploy secure identity
+- Automate administrative tasks
+- Document every engineering decision
+- Apply Infrastructure as Code
+- Develop cloud architecture skills
+---
+# Skills Demonstrated
+- Azure Administration
 - Microsoft Entra ID
-- Azure Virtual Machines
+- Identity and Access Management
 - Azure Networking
-- Azure Storage
-- Azure Monitor
 - RBAC
-- PowerShell
-- Azure CLI
+- Azure Storage
+- Virtual Machines
+- Infrastructure as Code
 - Bicep
 - Terraform
+- PowerShell
+- Azure CLI
+- Git
 - GitHub
-
+- Enterprise Documentation
+- Cloud Architecture
+- Business Analysis
 ---
-
-## Bootcamp Progress
-
-- [x] Module 00 - GitHub Repository Setup
-- [ ] Module 01 - Azure Foundations
-- [ ] Module 02 - Resource Groups
-- [ ] Module 03 - Networking
-- [ ] Module 04 - Storage
-- [ ] Module 05 - Virtual Machines
-- [ ] Module 06 - Microsoft Entra ID
-- [ ] Module 07 - RBAC
-- [ ] Module 08 - Monitoring
-- [ ] Module 09 - PowerShell
-- [ ] Module 10 - Azure CLI
-- [ ] Module 11 - Bicep
-- [ ] Module 12 - Terraform
-- [ ] Module 13 - Capstone
-
+# Repository Structure
+/docs
+Project documentation
+Architecture decisions
+Engineering notes
+Runbooks
+Lessons learned
+/scripts
+PowerShell automation
+Azure CLI scripts
+IaC
+Bicep
+Terraform
+Architecture
+Network diagrams
+Identity diagrams
+Future design documents
 ---
-
-## Current Status
-
-🚧 Bootcamp in Progress
+# Current Status
+Simulation:
+🟢 Active
+Current Ticket:
+BTG-001
+Current Role:
+Associate Cloud Engineer
+---
+# Professional Goal
+Develop the knowledge, documentation, and practical experience expected of a Cloud Engineer while progressing toward Cloud Architect responsibilities through realistic enterprise simulations.
+---
+# Future Enterprise Simulations
+Simulation 02
+Healthcare Enterprise
+Simulation 03
+Financial Services
+Simulation 04
+Manufacturing
+Simulation 05
+Retail
+Simulation 06
+Global Enterprise
