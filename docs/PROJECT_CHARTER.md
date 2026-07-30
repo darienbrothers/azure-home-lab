@@ -59,3 +59,14 @@ The following technologies are intentionally excluded from Phase 1 of this proje
 - Data Analytics platforms
 - Multi-cloud environments
 - Production customer applications
+
+## Success Criteria
+The BTG Azure Cloud Transformation project will be considered successful when the following outcomes have been achieved:
+- Enterprise Azure environment successfully deployed.
+- Microsoft Entra ID implemented for centralized identity management.
+- Secure networking architecture established.
+- Standardized resource naming conventions documented.
+- Infrastructure documented and version-controlled in GitHub.
+- Core administrative tasks automated using PowerShell and Azure CLI.
+- Infrastructure as Code introduced through Bicep and Terraform.
+- Environment prepared to support future company growth.
