@@ -35,3 +35,27 @@ Brothers Technology Group is undertaking this Azure transformation initiative to
 - Improve disaster recovery and business continuity.
 - Standardize cloud deployments using Infrastructure as Code.
 - Increase operational efficiency through automation.
+
+## Project Scope
+### Included
+This project includes the design, deployment, documentation, and automation of the following enterprise cloud components:
+- Microsoft Azure
+- Microsoft Entra ID
+- Azure Networking
+- Azure Virtual Machines
+- Azure Storage
+- Role-Based Access Control (RBAC)
+- Azure Monitor
+- PowerShell automation
+- Azure CLI
+- Bicep
+- Terraform
+- GitHub documentation
+### Not Included
+The following technologies are intentionally excluded from Phase 1 of this project:
+- Azure Kubernetes Service (AKS)
+- Artificial Intelligence services
+- Machine Learning workloads
+- Data Analytics platforms
+- Multi-cloud environments
+- Production customer applications
