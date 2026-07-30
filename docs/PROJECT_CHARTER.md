@@ -25,3 +25,13 @@ This repository documents that journey from the perspective of BTG's Cloud Engin
 
 BTG provides technology consulting, managed IT services, cloud solutions, and cybersecurity services to commercial customers throughout the United States.
  
+## Business Objectives
+Brothers Technology Group is undertaking this Azure transformation initiative to achieve the following business objectives:
+- Support company growth from 500 to 1,200 employees.
+- Modernize aging on-premises infrastructure.
+- Improve cybersecurity through centralized identity management.
+- Enable secure remote and hybrid work.
+- Reduce infrastructure maintenance and hardware costs.
+- Improve disaster recovery and business continuity.
+- Standardize cloud deployments using Infrastructure as Code.
+- Increase operational efficiency through automation.
